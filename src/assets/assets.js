@@ -79,17 +79,17 @@ export const albumsData = [
     },
     {   
         id:1,
-        name: "Top 50 India",
+        name: "Top 50 USA",
         image: img9,
         desc:"Your weekly update of the most played tracks",
-        bgColor:"#22543d"
+        bgColor:"#ff0076"
     },
     {   
         id:2,
-        name: "Trending India",
+        name: "Trending USA",
         image: img10,
         desc:"Your weekly update of the most played tracks",
-        bgColor:"#742a2a"
+        bgColor:"#005fff"
     },
     {   
         id:3,
@@ -100,17 +100,17 @@ export const albumsData = [
     },
     {   
         id:4,
-        name: "Mega Hits",
+        name: "TEC",
         image: img11,
-        desc:"Your weekly update of the most played tracks",
-        bgColor:"#234e52"
+        desc:"By Lil Tecca",
+        bgColor:"#ff8f00"
     },
     {   
         id:5,
-        name: "Happy Favorites",
+        name: "ASTROWORLD",
         image: img15,
-        desc:"Your weekly update of the most played tracks",
-        bgColor:"#744210"
+        desc:"By Travis Scott",
+        bgColor:"#e7d55f"
     }
 ]
 
@@ -118,65 +118,65 @@ export const songsData = [
     {
         id:0,
         name: "Song One",
-        image: img1,
+        image: img11,
         file:song1,
         desc:"Put a smile on your face with these happy tunes",
-        duration:"3:00"
+        duration:"2:16"
     },
     {
         id:1,
         name: "Song Two",
-        image: img2,
+        image: img15,
         file:song2,
         desc:"Put a smile on your face with these happy tunes",
-        duration:"2:20"
+        duration:"2:27"
     },
     {
         id:2,
         name: "Song Three",
-        image: img3,
+        image: img1,
         file:song3,
         desc:"Put a smile on your face with these happy tunes",
-        duration:"2:32"
+        duration:"4:11"
     },
     {
         id:3,
         name: "Song Four",
-        image: img4,
+        image: img11,
         file:song1,
         desc:"Put a smile on your face with these happy tunes",
-        duration:"2:50"
+        duration:"2:16"
     },
     {
         id:4,
         name: "Song Five",
-        image: img5,
+        image: img15,
         file:song2,
         desc:"Put a smile on your face with these happy tunes",
-        duration:"3:10"
+        duration:"2:27"
     },
     {
         id:5,
         name: "Song Six",
-        image: img14    ,
+        image: img1,
         file:song3,
         desc:"Put a smile on your face with these happy tunes",
-        duration:"2:45"
+        duration:"4:11"
     },
     {
         id:6,
         name: "Song Seven",
-        image: img7,
+        image: img11,
         file:song1,
         desc:"Put a smile on your face with these happy tunes",
-        duration:"2:18"
+        duration:"2:16"
     },
     {
         id:7,
         name: "Song Eight",
-        image: img12,
+        image: img15,
         file:song2,
         desc:"Put a smile on your face with these happy tunes",
-        duration:"2:35"
+        duration:"2:27"
     }
 ]
